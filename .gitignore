@@ -1,0 +1,4 @@
+launcher/*.exe
+base.json
+.publish-hash-cache.json
+__pycache__/
